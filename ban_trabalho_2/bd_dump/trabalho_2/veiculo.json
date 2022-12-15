@@ -1,0 +1,6 @@
+{ "_id" : 1593362570, "codVeiculo" : 1, "chassi" : "1", "codModelo" : 1, "placa" : "AAA0000", "uf" : "SC", "dataDesat" : 0 }
+{ "_id" : -62893596, "codVeiculo" : 2, "chassi" : "2", "codModelo" : 1, "placa" : "AAAA001", "uf" : "SC", "dataDesat" : 0 }
+{ "_id" : -62624516, "codVeiculo" : 3, "chassi" : "3", "codModelo" : 1, "placa" : "AAAA002", "uf" : "SC", "dataDesat" : 0 }
+{ "_id" : -62206481, "codVeiculo" : 4, "chassi" : "1", "codModelo" : 2, "placa" : "AAAA004", "uf" : "SC", "dataDesat" : 0 }
+{ "_id" : -61907610, "codVeiculo" : 5, "chassi" : "2", "codModelo" : 2, "placa" : "AAAA005", "uf" : "SC", "dataDesat" : 0 }
+{ "_id" : -61608739, "codVeiculo" : 6, "chassi" : "1", "codModelo" : 3, "placa" : "AAAA006", "uf" : "SC", "dataDesat" : 0 }

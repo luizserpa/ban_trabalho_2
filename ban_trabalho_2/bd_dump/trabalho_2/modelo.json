@@ -1,0 +1,3 @@
+{ "_id" : 1588325008, "codModelo" : 1, "codMarca" : 1, "nome" : "Gol", "combustivel" : "F", "motor" : 1.0, "dataDesat" : 0 }
+{ "_id" : -64563814, "codModelo" : 2, "codMarca" : 1, "nome" : "Fox", "combustivel" : "F", "motor" : 1.6, "dataDesat" : 0 }
+{ "_id" : -64264943, "codModelo" : 3, "codMarca" : 2, "nome" : "Onix", "combustivel" : "G", "motor" : 1.0, "dataDesat" : 0 }
